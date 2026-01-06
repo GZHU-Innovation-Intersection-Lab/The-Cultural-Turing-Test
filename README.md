@@ -2,6 +2,8 @@
 Source code of the paper "The Cultural Turing Test: Can LLMs Replace Human Subjects in Sociological Studies?".
 # Phased Persona Generation, Model Evaluation, and VSM-Based Analysis
 
+![Overview](fig-overview.png)
+
 This repository provides research code organized into three phases:
 Phase I (persona construction/translation), Phase II (LLM response generation and automated scoring), and Phase III (quantitative analysis, including VSM-style indices and statistical tests).
 
